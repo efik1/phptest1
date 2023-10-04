@@ -1,0 +1,72 @@
+{
+  "\u041e\u0441\u0442\u0440\u043e\u0432": {
+    "Avito.ru": {
+      "ucz_plan": "9",
+      "ucz_fact": "6",
+      "rb_plan": "189000",
+      "rb_fact": "126000"
+    },
+    "Cian.ru": {
+      "ucz_plan": "47",
+      "ucz_fact": "15",
+      "rb_plan": "1410000",
+      "rb_fact": "450000"
+    },
+    "Realty.yandex.ru": {
+      "ucz_plan": "30",
+      "ucz_fact": "16",
+      "rb_plan": "720000",
+      "rb_fact": "384000"
+    },
+    "flat": {
+      "4": {
+        "price_min": "48792960",
+        "price_max": "167680700",
+        "square_min": "101,5",
+        "square_max": "96,2",
+        "count": 88,
+        "life_lots": 31
+      },
+      "s": {
+        "price_min": "17542980",
+        "price_max": "20274150",
+        "square_min": "27,3",
+        "square_max": "34,1",
+        "count": 26,
+        "life_lots": 31
+      },
+      "1": {
+        "price_min": "20988540",
+        "price_max": "45759200",
+        "square_min": "35,9",
+        "square_max": "47,8",
+        "count": 99,
+        "life_lots": 31
+      },
+      "2": {
+        "price_min": "28654920",
+        "price_max": "76470700",
+        "square_min": "55",
+        "square_max": "96,1",
+        "count": 222,
+        "life_lots": 31
+      },
+      "5": {
+        "price_min": "72240720",
+        "price_max": "176281560",
+        "square_min": "139,7",
+        "square_max": "187,9",
+        "count": 13,
+        "life_lots": 31
+      },
+      "3": {
+        "price_min": "37314230",
+        "price_max": "233750440",
+        "square_min": "102",
+        "square_max": "99,7",
+        "count": 130,
+        "life_lots": 31
+      }
+    }
+  }
+}
