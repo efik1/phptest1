@@ -1,1 +1,11 @@
-{"Avito.ru":{"rb_fact":"126000"},"Cian.ru":{"rb_fact":"450000"},"Realty.yandex.ru":{"rb_fact":"384000"}}
+{
+    "Avito.ru": {
+        "rb_fact": "126000"
+    },
+    "Cian.ru": {
+        "rb_fact": "450000"
+    },
+    "Realty.yandex.ru": {
+        "rb_fact": "384000"
+    }
+}
